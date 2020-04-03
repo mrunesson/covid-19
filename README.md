@@ -23,5 +23,5 @@ over time. You can finde notes in the data about these.
 
 Please let me know if you find any issues with the data.
 
-Main source is (Stockholm County)[https://www.sll.se/].
+Main source is [Stockholm County](https://www.sll.se/).
 License of the collection of data: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
