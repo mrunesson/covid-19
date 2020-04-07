@@ -9,7 +9,7 @@ Stockholm county(Region Stockholm) presents data including:
 
 * number of identified cases
 * number of death
-* muber of people in hospital for COVID-19
+* number of people in hospital for COVID-19
 * number of people in hospital for COVID-19 needing care at ICU, IVA in Swedish.
 
 Unfortunatly they are not presented in a way suitable for rading by a program used for
