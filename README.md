@@ -8,7 +8,8 @@ how Stockholm county behaves compared to Sweden as a whole.
 Stockholm county(Region Stockholm) presents data including:
 
 * number of identified cases
-* number of death
+* number of tested people
+* number of new death
 * number of people in hospital for COVID-19
 * number of people in hospital for COVID-19 needing care at ICU, IVA in Swedish.
 
@@ -22,6 +23,11 @@ the dataset. My goal is to regularly update with new data while it is ongoing.
 I have identified a few discirptances in the numbers in the reporting that make the numbers
 not add upp correctly. There has also been changes in strategy and timewindow used for reporting
 over time. You can finde notes in the data about these.
+
+It is important to know that there are delays in the data, especially in reports on death.
+The table includes both the accumulated and a calculated daily value. It is in respect to
+previous day's data. It does not mean that number died that day.
+The number of tests taken is apparently a rounded value.
 
 Please let me know if you find any issues with the data.
 
