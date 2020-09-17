@@ -13,7 +13,10 @@ Stockholm county(Region Stockholm) presents data including:
 * number of people in hospital for COVID-19
 * number of people in hospital for COVID-19 needing care at ICU, IVA in Swedish.
 
-Unfortunatly they are not presented in a way suitable for rading by a program used for
+Initial data was on a daily basis. But now are numbers too low and the region have stopped
+reporting daily values. Therefore a weekly data set is added. It starts from early june.
+
+Unfortunatly they are not presented in a way suitable for reading by a program used for
 analysis.
 
 To be able to understand trends etc I need to have time series. I have collected the data
