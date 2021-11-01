@@ -1,5 +1,8 @@
 # Covid-19/Corona data from Stockholm county
 
+Data was stopped added at Oct 31 2021 since there are many good sources
+and no major changes in Stockholm.
+
 I wanted to understand what is happening in Stockholm county in Sweden regarding Covid-19.
 In media and from the officials they say Stockholm is ahead rest of Sweden on the curve.
 So for me working with data every day, though not medical data, I want to see
